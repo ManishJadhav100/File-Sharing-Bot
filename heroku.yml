@@ -5,3 +5,4 @@ run:
   worker:
     command:
       - python main.py
+    image: web
