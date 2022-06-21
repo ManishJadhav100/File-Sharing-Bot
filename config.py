@@ -3,7 +3,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 #Bot token @Botfather
-TG_BOT_TOKEN = "o5234474655:AAGKcU8WsbDCKFtBCk2DdlvuEUPuvRedDqI"
+TG_BOT_TOKEN = "5512853825:AAFhhc4IsB2jK_itM9z25b-gjT1v2b2pqHE"
 
 #Your API ID from my.telegram.org
 APP_ID = 3796974
@@ -21,7 +21,7 @@ OWNER_ID = 1464063686
 DB_URI = "mongodb+srv://mjwatermark:Manya@007@cluster0.ahbvh.mongodb.net/sample?retryWrites=true&w=majority"
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = -1001234394694
+FORCE_SUB_CHANNEL = -1001712250223
 
 TG_BOT_WORKERS = 4
 
